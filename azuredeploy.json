@@ -5,7 +5,7 @@
         "StorageAccountName": {
             "type": "string",
             "metadata": {
-                "description": "Storage Account Name"
+                "description": "Storage Account Name-test"
             },
             "minLength": 3,
             "maxLength": 24
